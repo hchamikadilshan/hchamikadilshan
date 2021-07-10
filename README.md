@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learnig,Deep Learnig and Web Devolopment
 - 🌱 I’m currently learning Machine Learning and Web Devolopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My email is hchamikadilshan@gmail.com
 
 <!---
 hchamikadilshan/hchamikadilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
