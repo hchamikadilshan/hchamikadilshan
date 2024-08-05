@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chamika Dilshan Hapuarachchi @hchamikadilshan
-- 👀 I’m interested in Machine Learnig,Deep Learnig and Web Devolopment
+- 👀 I’m interested in Machine Learnig,Data Science and Web Devolopment
 - 🌱 I’m currently learning Machine Learning and Web Devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email is hchamikadilshan@gmail.com
